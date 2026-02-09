@@ -1,6 +1,6 @@
-/** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
+  basePath: "/ai-requirement-assistant",
   images: {
     unoptimized: true,
   },
