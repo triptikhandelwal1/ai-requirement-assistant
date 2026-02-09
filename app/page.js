@@ -72,17 +72,28 @@ NON-FUNCTIONAL REQUIREMENTS
       </button>
 
       {requirements && (
-        <pre
-          style={{
-            marginTop: "30px",
-            padding: "20px",
-            background: "#f4f4f4",
-            whiteSpace: "pre-wrap"
-          }}
-        >
-          {requirements}
-        </pre>
-      )}
+  <pre
+    style={{
+      marginTop: "30px",
+      padding: "20px",
+      background: "#f4f4f4",
+      whiteSpace: "pre-wrap",
+    }}
+  >
+    {requirements}
+  </pre>
+)}
+<p
+  style={{
+    marginTop: "40px",
+    textAlign: "center",
+    fontSize: "14px",
+    color: "#666",
+  }}
+>
+  Made by <strong>Tripti Khandelwal</strong>
+</p>
+        
     </main>
   );
 }
