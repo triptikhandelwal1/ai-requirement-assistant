@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Requirement Assistant
 
-## Getting Started
+AI Requirement Assistant is a web-based application that transforms raw project ideas into structured and well-defined technical requirements.
 
-First, run the development server:
+The project demonstrates requirement analysis, product thinking, and frontend development skills in a simple and effective manner.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Project Overview
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+The application allows users to describe a project idea in plain text and instantly receive a structured breakdown including functional requirements, non-functional requirements, and a suggested technology stack.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This simulates how real-world software ideas are converted into actionable development plans.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Converts project ideas into technical requirements
+- Clean and minimal user interface
+- Instant output generation
+- Responsive layout for desktop and mobile
+- Easily extendable for future AI integration
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Technology Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Frontend: Next.js (React)
+- Language: JavaScript
+- Styling: CSS
+- Version Control: Git and GitHub
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Project Structure
+---
+
+## How the Application Works
+
+1. The user enters a project idea
+2. The system analyzes the input
+3. Technical requirements are generated
+4. The output is displayed clearly on the screen
+
+This reflects a real-world requirement analysis workflow.
+
+---
+
+## Use Case
+
+- Internship evaluation
+- Academic submission
+- Demonstrating AI-based problem solving
+- Showcasing frontend and product-thinking skills
+
+---
+
+## Future Enhancements
+
+- Integration with real AI models (OpenAI, Gemini, Claude)
+- Exporting requirements as PDF
+- Backend support with database storage
+- User authentication and role-based access
+
+---
+
+## Author
+ 
+**Tripti Khandelwal**
+
+Designed and developed by Tripti Khandelwal as part of an AI-focused technical project and internship evaluation.
+
+All ideas, structure, and implementation in this project are original and created for learning and demonstration purposes.
