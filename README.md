@@ -1,74 +1,53 @@
 # AI Requirement Assistant
 
-AI Requirement Assistant is a web-based application that transforms raw project ideas into structured and well-defined technical requirements.
+An AI-powered web application that helps transform raw project ideas into structured technical requirements.
 
-The project demonstrates requirement analysis, product thinking, and frontend development skills in a simple and effective manner.
-
----
-
-## Project Overview
-
-The application allows users to describe a project idea in plain text and instantly receive a structured breakdown including functional requirements, non-functional requirements, and a suggested technology stack.
-
-This simulates how real-world software ideas are converted into actionable development plans.
+This tool is designed to assist students, developers, and early-stage founders in understanding **what needs to be built** before starting development.
 
 ---
 
-## Features
+## 🚀 Features
 
-- Converts project ideas into technical requirements
+- Convert plain English project ideas into technical requirements
+- Generate functional and non-functional requirements
+- Suggest an appropriate tech stack
 - Clean and minimal user interface
-- Instant output generation
-- Responsive layout for desktop and mobile
-- Easily extendable for future AI integration
+- Fast and responsive performance
 
 ---
 
-## Technology Stack
+## 🛠 Tech Stack
 
-- Frontend: Next.js (React)
-- Language: JavaScript
-- Styling: CSS
-- Version Control: Git and GitHub
-
----
-
-## Project Structure
----
-
-## How the Application Works
-
-1. The user enters a project idea
-2. The system analyzes the input
-3. Technical requirements are generated
-4. The output is displayed clearly on the screen
-
-This reflects a real-world requirement analysis workflow.
+- **Frontend:** Next.js (React)
+- **Backend Logic:** Node.js (API routes)
+- **Styling:** CSS Modules
+- **Version Control:** Git & GitHub
 
 ---
 
-## Use Case
-
-- Internship evaluation
-- Academic submission
-- Demonstrating AI-based problem solving
-- Showcasing frontend and product-thinking skills
+## 📂 Project Structure
+> The structure above represents how the application is organized internally.
 
 ---
 
-## Future Enhancements
+## 🎯 Use Case
 
-- Integration with real AI models (OpenAI, Gemini, Claude)
-- Exporting requirements as PDF
-- Backend support with database storage
-- User authentication and role-based access
+This project is useful for:
+- Internship and academic project planning
+- Startup idea validation
+- Software requirement documentation
+- Learning how AI can assist in early SDLC phases
 
 ---
 
-## Author
- 
-**Tripti Khandelwal**
+## 👩‍💻 Author
 
-Designed and developed by Tripti Khandelwal as part of an AI-focused technical project and internship evaluation.
+**Tripti Khandelwal**  
+Designed and developed by Tripti Khandelwal  
+GitHub: https://github.com/triptikhandelwal1
 
-All ideas, structure, and implementation in this project are original and created for learning and demonstration purposes.
+---
+
+## 📌 Note
+
+This project focuses on **clarity, simplicity, and practical usefulness** rather than over-design or unnecessary features.
